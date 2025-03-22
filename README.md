@@ -19,14 +19,18 @@ This repository provides a fully open-source SIEM solution for security monitori
 ### 1 Grafana SIEM Overview Dashboard
 ![Grafana SIEM Overview](images/grafana-dashboard.gif)
 
+
 ### 2 Wazuh Security Monitoring Dashboard
 ![Wazuh Security Monitoring](images/wazuh-dashboard.gif)
+
 
 ### 3 Graylog Log Analysis
 ![Graylog Log Analysis](images/graylog-dashboard.png)
 
-### 4️⃣ MISP Threat Intelligence D
+
+### 4 MISP Threat Intelligence
 ![MISP Threat Intelligence](images/misp-threat-intel.png)
+
 
 ## Components
 

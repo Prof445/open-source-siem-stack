@@ -1,4 +1,3 @@
-```markdown
 # Use Cases
 
 ## **1. Log Analysis & Security Monitoring**
