@@ -2,9 +2,14 @@
 
 ![SIEM Stack](images/architecture-diagram.png)
 
+
 ## Overview
 
 This repository provides a fully open-source SIEM solution for security monitoring, incident detection, and threat intelligence. It integrates Wazuh, Graylog, Grafana, and MISP to offer a complete security operations solution.
+
+
+## 📖 **[Refer to the Deployment Guide](documentation/deployment-guide.md)** for step-by-step installation and setup instructions
+
 
 ## Features
 
@@ -14,7 +19,9 @@ This repository provides a fully open-source SIEM solution for security monitori
 - **Incident Response & Case Management**: The Hive & Cortex  
 - **Automation**: Shuffle  
 
+
 ## 📊 SIEM Dashboards & Visualizations
+
 
 ### 1 Grafana SIEM Overview Dashboard
 ![Grafana SIEM Overview](images/grafana-dashboard.gif)
@@ -42,9 +49,6 @@ This repository provides a fully open-source SIEM solution for security monitori
 - **Velociraptor** - Forensic analysis & endpoint security  
 - **Shuffle** - Security automation  
 
-## Deployment Guide
-
-See [Deployment Guide](documentation/deployment-guide.md) for installation steps.
 
 ## License
 
