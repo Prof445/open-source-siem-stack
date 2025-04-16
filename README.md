@@ -8,8 +8,10 @@
 This repository provides a fully open-source SIEM solution for security monitoring, incident detection, and threat intelligence. It integrates Wazuh, Graylog, Grafana, and MISP to offer a complete security operations solution.
 
 
-## 📖 **[Refer to the Deployment Guide](documentation/deployment-guide.md)** for step-by-step installation and setup instructions
+## 📖 **[Refer to Deployment Guide](documentation/deployment-guide.md)** for `step-by-step installation` and `setup instructions`
 
+
+## 📎 **[Refer to Configs](configs/)** for `configuration files`, `grafana dashboard files` And `related setup guides`  
 
 ## Features
 
